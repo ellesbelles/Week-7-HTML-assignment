@@ -5,3 +5,11 @@
     color: teal(11, 5, 6);
     align-items: center;
 }
+
+.navbar h1 {
+    background-color: tan;
+    padding: 15px;
+    display: flex;
+    justify-content; space-between;
+
+}
